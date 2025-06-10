@@ -1,0 +1,31 @@
+# Country-wise COVID-19 Analysis - Power BI Dashboard
+
+This project visualizes the global COVID-19 situation with a focus on regional and country-wise breakdowns using Power BI.
+
+## 📊 Dashboard Highlights
+
+- Total confirmed, recovered, death, and active cases
+- Highest new cases by country
+- Weekly increase in cases
+- Active cases by region
+- Pie chart of cases by WHO region
+
+![Dashboard Screenshot](dashboard.png)
+
+## 🛠️ Tools Used
+
+- Power BI
+- COVID-19 dataset (source: [mention source if available])
+- Data modeling and DAX measures
+
+## 📁 Files
+
+- `CovidDashboard.pbix`: Power BI file
+- `dashboard.png`: Dashboard screenshot
+
+---
+
+## 🔗 How to View
+
+If you want to explore this dashboard interactively, [Publish to Web link here (if created)].
+
